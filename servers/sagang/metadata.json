@@ -4,8 +4,7 @@
   "store": "https://shop.sagang.fun",
   "description": "Un servidor de PvP con FFA Sword y Duels.",
   "addresses": [
-    "sagang.fun",
-    "uhc.sagang.fun"
+    "sagang.fun"
   ],
   "primaryAddress": "sagang.fun",
   "primaryColor": "#60E7E7",
